@@ -39,12 +39,23 @@ The system successfully identifies target items in various baggage images and vi
 	•	Deploy on edge devices (e.g., Raspberry Pi or Jetson Nano)
 	•	Integrate with airport or checkpoint management systems
 
-contributers
+contributers:
+
 Abdullah alsaab
+
 [Linkedin](https://www.linkedin.com/in/aalsaab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+
 Abdulaziz alqahtani
+
 [Linkedin](https://www.linkedin.com/in/abdulaziz-alqahtani-27ba88363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+
 Abdulrahamn alosami
+
 [Linkedin](https://www.linkedin.com/in/abdulrahamn-f-alosami-062266305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+
 Abdullah alanbar
+
 [Linkedin](https://www.linkedin.com/in/abdullah-alanbar-8483a1336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
